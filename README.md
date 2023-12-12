@@ -40,8 +40,8 @@ git clone https://github.com/Dogukandinler/myemployeechecker.git
 3. **User Chart**: A chart where you can examine the responses given by users in the service section
 4. **User Registration**: Allows registration of new users, storing information in the backend database.
 
-   
-##Screenshots
+
+## Screenshots
 
 ![image](https://github.com/Dogukandinler/myemployeechecker/assets/82346619/2255e3b6-73a4-42f8-a2a2-5ee1c79a82cb)
 Caption: Login screen where users enter credentials.
