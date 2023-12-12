@@ -1,4 +1,6 @@
-Description
+# EmployeeChecker
+
+## Description
 This is a React project connected to Spring Boot, focusing on user authentication, team information display, user response charts and user registration. The application includes a login screen, a team page, user charts and a user registration form.
 
 ## Table of Contents
