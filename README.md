@@ -20,10 +20,12 @@ This is a React project connected to Spring Boot, focusing on user authenticatio
     git clone https://github.com/Dogukandinler/myemployeechecker.git
 
 2. Install dependencies:
-    npm install
+   
+        npm install
 
-3. Start the React application:
-   npm start
+4. Start the React application:
+   
+       npm start
 
 4.Ensure that the Spring Boot backend is running.
 
