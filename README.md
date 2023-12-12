@@ -7,9 +7,8 @@ This is a React project connected to Spring Boot, focusing on user authenticatio
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [Features](#features)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+- [Screenshots](#Screenshots)
+
 
 
 ## Installation
